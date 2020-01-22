@@ -1,4 +1,4 @@
-# unit-4-game
+# Crystal Collector Game
 Jquery game
 
 Here's how the app works:
